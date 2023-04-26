@@ -8,6 +8,10 @@ html {
     background-size: cover;
 }
 
+body {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
 h1 {
     color: white;
     font-family: 'Metal Mania', cursive;
