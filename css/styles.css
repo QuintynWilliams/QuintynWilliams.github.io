@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+html {
+    background: url("/images/gustavo_dore_satan.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: 'Metal Mania', cursive;
+    text-shadow: black 5px 5px 4px;
+}
+
